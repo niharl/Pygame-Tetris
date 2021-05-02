@@ -12,8 +12,13 @@ pip3 install pygame
 
 ## Gameplay
 SPACE - start a new game
+
 P     - pause/play
+
 ←/→	  - move current block left/right
+
 ↑     - hard drop
+
 ↓     - soft drop
+
 R     - rotate current block clockwise
