@@ -22,3 +22,5 @@ P     - pause/play
 ↓     - soft drop
 
 R     - rotate current block clockwise
+
+## Interface screenshots
