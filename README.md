@@ -36,3 +36,6 @@ R     - rotate current block clockwise
 
 <img src="https://github.com/niharl/pygame-tetris/blob/bd3195864980054dbde7d9b83c360e7653c17bf0/Died.png" width="300" height="300">
 
+## Authors
+
+* **Nihar Lohan**
