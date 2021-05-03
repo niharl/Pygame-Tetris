@@ -24,11 +24,11 @@ P     - pause/play
 R     - rotate current block clockwise
 
 ## Interface screenshots
-![1](https://github.com/niharl/pygame-tetris/blob/bd3195864980054dbde7d9b83c360e7653c17bf0/Gameplay.png)
+![1](https://github.com/niharl/pygame-tetris/blob/bd3195864980054dbde7d9b83c360e7653c17bf0/Gameplay.png | width=100)
 *Gameplay*
 
-![2](https://github.com/niharl/pygame-tetris/blob/bd3195864980054dbde7d9b83c360e7653c17bf0/Paused.png)
+![2](https://github.com/niharl/pygame-tetris/blob/bd3195864980054dbde7d9b83c360e7653c17bf0/Paused.png | width=100)
 *Paused*
 
-![3](https://github.com/niharl/pygame-tetris/blob/bd3195864980054dbde7d9b83c360e7653c17bf0/Died.png)
+![3](https://github.com/niharl/pygame-tetris/blob/bd3195864980054dbde7d9b83c360e7653c17bf0/Died.png | width=100)
 *Died*
