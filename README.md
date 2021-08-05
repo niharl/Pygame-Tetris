@@ -38,4 +38,4 @@ R     - rotate current block clockwise
 
 ## Authors
 
-* **Nihar Lohan** May 2020
+* **Nihar Lohan** - May 2020
